@@ -5,8 +5,8 @@
 * Currently training a PyTorch model to estimate premiums before buying stocks
 * Currently learning Go
 
-Check out my LinkedIn:
+Check out my LinkedIn!
 
 <a href="https://linkedin.com/in/sreyobiswas" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="30" style="color:#0A66C2;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30" />
 </a>
